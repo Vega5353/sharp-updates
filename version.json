@@ -1,5 +1,5 @@
 {
-    "version": "2.2",
-    "url": "https://github.com/Vega5353/sharp-updates/releases/download/v2.2/sharp_update.zip",
-    "changelog": "Інструкція користування, українські назви тем, інфо про розробника"
+    "version": "2.3",
+    "url": "https://github.com/Vega5353/sharp-updates/releases/download/v2.3/sharp_update.zip",
+    "changelog": "- Виправлено зависання\n- Пагінація\n- Кнопка Прочитати все\n- Ротація API ключів\n- Масштабування Ctrl+колесико\n- Розумні звіти\n- Підтягування пропущених повідомлень"
 }
