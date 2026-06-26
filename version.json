@@ -1,5 +1,5 @@
 {
-    "version": "2.3",
-    "url": "https://github.com/Vega5353/sharp-updates/releases/download/v2.3/sharp_update.zip",
-    "changelog": "- Виправлено зависання\n- Пагінація\n- Кнопка Прочитати все\n- Ротація API ключів\n- Масштабування Ctrl+колесико\n- Розумні звіти\n- Підтягування пропущених повідомлень"
+    "version": "2.4",
+    "url": "https://github.com/Vega5353/sharp-updates/releases/download/v2.4/sharp_update.zip",
+    "changelog": "- Виправлено ротацію API-ключів\n- Виправлено масштабування таблиць"
 }
