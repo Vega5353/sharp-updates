@@ -1,5 +1,5 @@
 {
-    "version": "2.6",
-    "url": "https://github.com/Vega5353/sharp-updates/releases/download/v2.6/sharp_update.zip",
-    "changelog": "- Виправлено підключення Signal\n- Виправлено синхронізацію\n- Авто-відновлення API ключів\n- Періодична синхронізація"
+    "version": "2.7",
+    "url": "https://github.com/Vega5353/sharp-updates/releases/download/v2.7/sharp_update.zip",
+    "changelog": "- Додали звуки сповіщень🔔"
 }
