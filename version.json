@@ -1,5 +1,5 @@
 {
-    "version": "2.9",
-    "url": "https://github.com/Vega5353/sharp-updates/releases/download/v2.9/sharp_update.zip",
-    "changelog": "- Звукові сповіщення 🔔\n- Виправлено помилку JAVA_HOME у користувачів\n- Виправлено крах на ПК без диску E:\\"
+    "version": "3.0",
+    "url": "https://github.com/Vega5353/sharp-updates/releases/download/v3.0/sharp_update3.0.zip",
+    "changelog": "- Звукові сповіщення 🔔\n- Налаштування звуку по блоках\n- Виправлено крах на ПК без диску E:\\"
 }
